@@ -1,0 +1,51 @@
+[submodule "cgo_examples"]
+	path = cgo_examples
+	url = https://github.com/learning-go-book/cgo_examples.git
+[submodule "circular_dependency_example"]
+	path = circular_dependency_example
+	url = https://github.com/learning-go-book/circular_dependency_example.git
+[submodule "context_cancel"]
+	path = context_cancel
+	url = https://github.com/learning-go-book/context_cancel.git
+[submodule "context_values"]
+	path = context_values
+	url = https://github.com/learning-go-book/context_values.git
+[submodule "dependency_injection_example"]
+	path = dependency_injection_example
+	url = https://github.com/learning-go-book/dependency_injection_example.git
+[submodule "formatter"]
+	path = formatter
+	url = https://github.com/learning-go-book/formatter.git
+[submodule "function_examples"]
+	path = function_examples
+	url = https://github.com/learning-go-book/function_examples.git
+[submodule "internal_example"]
+	path = internal_example
+	url = https://github.com/learning-go-book/internal_example.git
+[submodule "language_pointer_examples"]
+	path = language_pointer_examples
+	url = https://github.com/learning-go-book/language_pointer_examples.git
+[submodule "money"]
+	path = money
+	url = https://github.com/learning-go-book/money.git
+[submodule "package_example"]
+	path = package_example
+	url = https://github.com/learning-go-book/package_example.git
+[submodule "pointer_performance"]
+	path = pointer_performance
+	url = https://github.com/learning-go-book/pointer_performance.git
+[submodule "reflection_example"]
+	path = reflection_example
+	url = https://github.com/learning-go-book/reflection_example.git
+[submodule "region_tax"]
+	path = region_tax
+	url = https://github.com/learning-go-book/region_tax.git
+[submodule "simpletax"]
+	path = simpletax
+	url = https://github.com/learning-go-book/simpletax.git
+[submodule "test_examples"]
+	path = test_examples
+	url = https://github.com/learning-go-book/test_examples.git
+[submodule "unsafe_examples"]
+	path = unsafe_examples
+	url = https://github.com/learning-go-book/unsafe_examples.git
